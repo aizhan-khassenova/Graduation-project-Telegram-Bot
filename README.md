@@ -1,3 +1,15 @@
 # Graduation-project-Telegram-Bot
 Graduation project on the topic: "Telegram Bot - Translator"
 ![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/1.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/2.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/3.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/4.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/5.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/6.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/7.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/8.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/9.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/10.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/11.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/12.png)
+![](https://github.com/Aizhan-Khassenova/Graduation-project-Telegram-Bot/blob/main/present/13.png)
